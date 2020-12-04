@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto inspirado na calculadora do macOS
+Projeto inspirado na calculadora do macOS.
 
 
 <p align="center">
