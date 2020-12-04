@@ -1,7 +1,5 @@
 
-<h4 align="center">
-  Projeto Calculadora
-</h4>
+## Projeto Calculadora
 
 <br>
 
